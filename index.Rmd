@@ -1,6 +1,6 @@
 ---
 title: "José Luis Coyac Rodríguez"
-image: "xiang.jpg"
+image: "JoseLuis.png"
 links:
   - label: LinkedIn
     url: "https://linkedin.com/"
