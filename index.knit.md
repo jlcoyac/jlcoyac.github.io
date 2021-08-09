@@ -1,5 +1,5 @@
 ---
-title: "jlcoyac"
+title: "Xiang Guo"
 image: "xiang.jpg"
 links:
   - label: LinkedIn
